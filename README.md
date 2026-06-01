@@ -16,16 +16,16 @@ We build tools and provide consulting for service-based businesses — restauran
 
 | Product | Description | Link |
 |---------|-------------|------|
-| **WrenchOps** | Field service management for trades | [wrench-ops.com](https://wrench-ops.com) |
 | **CaterOps** | Catering operations from inquiry to execution | [cater-ops.com](https://cater-ops.com) |
 | **ApronOps** | Restaurant back-of-house command center | [apron-ops.com](https://apron-ops.com) |
 | **Freecost** | Professional recipe costing and menu analysis | [freefoodcost.com](https://freefoodcost.com) |
+| **Olive My Stats** | Baby tracker — web and mobile | [olivestats.com](https://olivestats.com) |
 
 ### Open Source
 
 | Project | Description |
 |---------|-------------|
-| [nativelink](https://github.com/brobata/nativelink) | Self-hosted persistent terminal sessions via xterm.js |
+| [persalink](https://github.com/brobata/persalink) | Self-hosted persistent terminal sessions — your terminal, any device |
 | [file-share](https://github.com/brobata/file-share) | Local network file sharing — no cloud, no accounts |
 
 ### Tech Stack
@@ -37,4 +37,3 @@ We build tools and provide consulting for service-based businesses — restauran
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-
