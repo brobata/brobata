@@ -25,6 +25,7 @@ We build tools and provide consulting for service-based businesses — restauran
 
 | Project | Description |
 |---------|-------------|
+| [desktop-foodcost](https://github.com/brobata/desktop-foodcost) | Cross-platform recipe costing & menu management desktop app (Avalonia + .NET) |
 | [persalink](https://github.com/brobata/persalink) | Self-hosted persistent terminal sessions — your terminal, any device |
 | [file-share](https://github.com/brobata/file-share) | Local network file sharing — no cloud, no accounts |
 
